@@ -1,4 +1,4 @@
-# Irishman Calling's Javascript SDK
+# ![Irishman Calling's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/calling-javascript/master/.github/banner.svg)
 
 Start and receive digital phone calls.
 
