@@ -1,6 +1,9 @@
 # ![Irishman Calling's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/calling-javascript/master/.github/banner.svg)
 
-Start and receive digital phone calls.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/calling-javascript)](https://github.com/irishman-cloud/calling-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/calling-javascript)](https://github.com/irishman-cloud/calling-javascript/issues)
+
+<b align="center">Start and receive digital phone calls.</b>
 
 ## Table of Contents
 
